@@ -1,0 +1,17 @@
+=====Gmail=====
+-----old-----
+gravesjeff330@gmail.com
+blizzard.eternity@gmail.com
+felixleung330@gmail.com
+-----new-----
+hayatek330@gmail.com
+jameskang3308@gmail.com
+akaotatsuya77@gmail.com
+
+
+=====VPS=====
+198.105.126.40:443
+123123
+
+45.249.90.43:80
+K@nGyeon38
